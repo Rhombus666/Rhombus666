@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Rhombus666
-- 👀 I’m interested in ... C# and Python
-- 🌱 I’m currently learning ... Unity
-- 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... pls dont
+- 👀 I’m interested in C# and Python
+- 🌱 I’m currently learning to use Unity
+- 💞️ I’m looking to collaborate on anything if it is really cool and interesting
 
 
 <!---
