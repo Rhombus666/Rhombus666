@@ -2,6 +2,7 @@ Hi
 
 
 I’m interested in Python, Go and Machine Learning
+
 I am currently doing Harvard University's CS50x
 
 <!---
